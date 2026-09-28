@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e6b58e9c68082af455ead891",
+  "owner": "qeuasaj",
+  "repo": "page-363d13c4df05b2c03bbf4dd2",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "363d13c4df05b2c03bbf4dd2",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca6244372397132a72c47fd817c3e7cc5cf0e332f0e2b2fdce57eb9000226994",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN加速器提供专业套餐服务，帮助用户实现网络加速与流媒体解锁。官方客户端下载指南与配置流程详见官网。",
+          "AI_DESCRIPTION": "快柠檬VPN加速器提供专业套餐服务，帮助用户实现网络加速与流媒体解锁。官方客户端下载指南与配置流程详见官网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body { font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; background: linear-gradient(to bottom, #001f3f, #003366); color: #f0f0f0; margin: 0; padding: 0; line-height: 1.7; }.main-container { max-width: 800px; margin: 0 auto; padding: 20px; } nav { background: rgba(255,255,255,0.1); border-radius: 8px; padding: 10px; margin-bottom: 30px; } nav ul { list-style: none; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; } nav a { color: #00d4ff; text-decoration: none; padding: 10px 15px; border-radius: 20px; transition: background 0.3s; } nav a:hover { background: #00d4ff; color: #001f3f; } h1 { color: #00d4ff; text-align: center; font-size: 2.8rem; margin: 20px 0; } h2 { color: #00d4ff; border-bottom: 3px solid #00d4ff; padding-bottom: 10px; margin: 30px 0 15px; font-size: 1.8rem; } p { margin-bottom: 20px; font-size: 1.1rem; } ol { counter-reset: step; list-style: none; padding: 0; } ol li { counter-increment: step; position: relative; padding: 20px 20px 20px 60px; margin-bottom: 25px; background: rgba(255,255,255,0.05); border-radius: 12px; transition: transform 0.2s; } ol li:hover { transform: translateX(5px); } ol li::before { counter-increment: step; content: counter(step); position: absolute; left: 15px; top: 50%; transform: translateY(-50%); background: #00d4ff; color: #001f3f; width: 35px; height: 35px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.2rem; } section { margin-bottom: 40px; } details { background: rgba(255,255,255,0.05); border-radius: 10px; margin-bottom: 15px; overflow: hidden; } summary { padding: 18px 20px; font-size: 1.15rem; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; border-radius: 10px; } summary::after { content: \"▼\"; transition: transform 0.3s; } details[open] summary::after { content: \"▲\"; } @media (max-width: 600px) { h1 { font-size: 2.2rem; } h2 { font-size: 1.6rem; } ol li { padding: 15px 15px 15px 50px; } ol li::before { width: 30px; height: 30px; font-size: 1rem; } nav ul { flex-direction: column; align-items: center; } nav a { padding: 8px 12px; font-size: 0.95rem; } }</style><main class=\"main-container\"><nav><ul><li><a href=\"#intro\">首页</a></li><li><a href=\"#steps\">配置流程</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#faq\">FAQ</a></li><li><a href=\"#download\">下载</a></li></ul></nav><section id=\"intro\"><h1>快柠檬</h1><p>快柠檬是一款专业的高效VPN加速器，致力于为您提供稳定快速的网络加速服务，让您畅享流媒体解锁与全球内容访问。</p></section><section id=\"steps\"><h2>配置流程</h2><ol><li>访问官网选择合适的套餐</li><li>完成在线支付订阅</li><li>下载并安装客户端</li><li>登录账号完成配置</li><li>连接加速节点开始使用</li></ol></section><section id=\"plans\"><h2>套餐选择</h2>{{PLANS_HTML}}</section><section id=\"faq\"><h2>常见问题</h2><details><summary>快柠檬提供哪些套餐？</summary><p>快柠檬提供基础版、旗舰版和团队版三种专业套餐。</p></details><details><summary>如何选择适合的套餐？</summary><p>请根据您的流量需求、设备数量和使用场景选择最合适的套餐。</p></details><details><summary>快柠檬支持设备数量吗？</summary><p>是的，多种套餐支持不同数量的设备同时在线。</p></details><details><summary>支持流媒体解锁吗？</summary><p>旗舰版及以上套餐提供原生流媒体解锁服务。</p></details><details><summary>提供客户支持吗？</summary><p>是的，所有套餐均提供相应级别的客户支持服务。</p></details></section><section id=\"download\"><h2>客户端下载</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "e4363c67629281fc5cde26e737b230f019f0d1a39c8ff6b6674e4ad538f6f8a7",
+          "seo": {
+            "title": "快柠檬 VPN 加速器 | 套餐订阅与客户端下载",
+            "keywords": "快柠檬, VPN, 加速器, 机场, 订阅, 客户端下载, VPN加速",
+            "description": "快柠檬VPN加速器提供专业套餐服务，帮助用户实现网络加速与流媒体解锁。官方客户端下载指南与配置流程详见官网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfknj.cn",
+    "host": "home.qfknj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "qfknj.cn",
+      "url": "https://qfknj.cn/",
+      "label": "西数(WestData)",
+      "apex": "qfknj.cn",
+      "kind": null,
+      "identity": "cwcqqj/page-799dafde6b9b02b0b0ee6d98"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d6fb2a844c382a3ecf5747e72e720f597d1ff2b7cb256ee6d8ec90ca4fba0e3c",
+    "sitemap.xml": "3163d30f371f1dba1b2e9f26bee3ef8d0eb3678ee3dcd230f32eaab823b5e24b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b588e4bc1bff3815a21ca629f3fe42426a4dc5d14fc28d42a17d20b5ce5ca967",
+    "robots.txt": "0bf31abb0be3f9cddbfd247f3f7e2e917890c9adac96afd579bb636f435eba45",
+    "d8ca739f1db7b4ded752245a9fce508e.txt": "33c1045cc72b3d2f26b37a334c1c739748f2924c4d8d2cbb8905a3aeec92f690"
+  },
+  "revision": "3fb766d6bd4dba3684363a6c6bc71f1ee4870a135bdb36d66188ceda5f608901"
+}
